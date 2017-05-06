@@ -8,7 +8,7 @@
  <body>
   <h1 style="text-align:center;"> </h1>
   <table>
-  <center><img  src ="images\Capture.PNG" border="0"  width = "700" height =" 700 "  ></center>
+  <center><img  src ="images/Capture.PNG" border="0"  width = "700" height =" 700 "  ></center>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b74ba3320e82ec";
@@ -36,6 +36,6 @@
   $conn->close();
  ?> 
  </table>
- <center><img  src ="images\abajo.PNG" border="0"  width = "500" height =" 400 "  ></center>
+ <center><img  src ="images/abajo.PNG" border="0"  width = "500" height =" 400 "  ></center>
  </body>
  </html>  
