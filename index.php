@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
-  <h1 style="text-align:center;">Alumnos</h1>
+  <h1 style="text-align:center;"> </h1>
   <table>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
@@ -28,7 +28,7 @@
       <td><?php echo $row['codigo_servicio']?></td>
       <td><?php echo $row['descripcion_servicio']?></td>
       <td><?php echo $row['nombre_servicio']?></td>
-      <img src = "<?php echo $row['imagen_servicio']?>"/></td>
+      <td> <img src = "<?php echo $row['imagen_servicio']?>"/></td>
       </tr>
      <?php }
   } else {
