@@ -36,6 +36,6 @@
   $conn->close();
  ?> 
  </table>
- <center><img  src ="images\abajpo.PNG" border="0"  width = "500" height =" 400 "  ></center>
+ <center><img  src ="images\abajo.PNG" border="0"  width = "500" height =" 400 "  ></center>
  </body>
  </html>  
